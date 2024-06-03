@@ -1,2 +1,2 @@
 # Computer-Vision-Experiments
-# Computer-Vision-Experiments
+An online backup of some things I'm trying in Computer Vision 
